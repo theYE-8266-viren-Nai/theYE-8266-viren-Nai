@@ -60,7 +60,7 @@ I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to crafti
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 GitHub Achievements
