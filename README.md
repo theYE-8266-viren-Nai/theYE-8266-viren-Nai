@@ -8,7 +8,6 @@
 
 I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to crafting seamless digital experiences. I love turning complex problems into elegant solutions and building applications that make a difference.
 
-- 🔭 Currently working on **modern web applications with React & Laravel**
 - 🌱 Learning **advanced TypeScript patterns and Three.js**
 - 👯 Open to collaborate on **open-source projects and innovative web solutions**
 - 🤔 Looking for guidance on **system design and scalable architecture**
