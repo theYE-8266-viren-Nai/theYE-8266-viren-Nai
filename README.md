@@ -64,7 +64,10 @@ I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to buildi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.heroku.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 🏆 Achievements
@@ -81,9 +84,6 @@ I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to buildi
 
 ## 📊 GitHub Contributions
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</div>
 ## 🎯 Current Focus
 
 ```javascript
