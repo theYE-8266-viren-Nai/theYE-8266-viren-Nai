@@ -79,6 +79,11 @@ I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to buildi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=tokyo-night" alt="GitHub Activity Graph"/>
 </div>
 
+## 📊 GitHub Contributions
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</div>
 ## 🎯 Current Focus
 
 ```javascript
