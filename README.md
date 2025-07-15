@@ -56,7 +56,7 @@ I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to buildi
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&langs_count=9&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&langs_count=12&theme=tokyonight" />
 </div>
 
 <div align="center">
