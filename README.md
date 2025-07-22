@@ -1,4 +1,4 @@
-# Hi there, I'm Viren Thuriya! 👋
+# Hi there, I'm Viren Thuriya! 
 
 ## 📊 GitHub Stats
 <div align="center">
