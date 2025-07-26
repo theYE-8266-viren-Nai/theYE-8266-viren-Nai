@@ -1,4 +1,4 @@
-# Hi there, I'm Viren Thuriya! 
+# Hello there, I'm Viren Thuriya! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+to+the+World+%F0%9F%8C%8D;Building+Digital+Experiences;Code%2C+Create%2C+Collaborate" alt="Typing SVG" />
