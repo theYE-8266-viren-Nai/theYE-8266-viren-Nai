@@ -1,4 +1,4 @@
-# Hello , I'm Viren Thuriya! 
+# Hello, I'm Viren Thuriya!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+to+the+World+%F0%9F%8C%8D;Building+Digital+Experiences;Code%2C+Create%2C+Collaborate" alt="Typing SVG" />
@@ -19,9 +19,26 @@
 
 ---
 
+## 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+> _(Auto-updates via GitHub Action, based on Dev.to or Medium feed.)_
+
+---
+
+## 🧠 Latest GitHub Activity (Auto-updated)
+
+<div align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" />
+</div>
+
+---
+
 ## 🚀 About Me
 
-I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to building seamless, meaningful digital experiences. I love transforming complex ideas into elegant, user-friendly solutions.
+I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to building seamless, meaningful digital experiences.
 
 - 🌱 Currently learning **advanced TypeScript patterns** and **Three.js**
 - 👯 Open to collaborating on **open-source projects** and **innovative web solutions**
@@ -32,10 +49,18 @@ I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to buildi
 
 ---
 
+## 🔧 Featured Projects
+
+[![Your Project](https://github-readme-stats.vercel.app/api/pin/?username=theYE-8266-viren-Nai&repo=your-repo-name&theme=tokyonight)](https://github.com/theYE-8266-viren-Nai/your-repo-name)
+
+<!-- Add more as needed -->
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://facebook.com/Thuriya%20Ye%20Naing">
+  <a href="https://facebook.com/thuriyaye.naing">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/virern_thuriya">
@@ -85,14 +110,6 @@ I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to buildi
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=theYE-8266-viren-Nai&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## 📈 Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=tokyo-night" alt="GitHub Activity Graph" />
 </div>
 
 ---
