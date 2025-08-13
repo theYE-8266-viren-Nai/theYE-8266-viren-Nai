@@ -1,7 +1,7 @@
 # Hello, I'm Viren Thuriya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+to+the+World+%F0%9F%8C%8D;Building+Digital+Experiences;Code%2C+Create%2C+Collaborate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+%F0%9F%9A%80;From+Myanmar+%F0%9F%87%B2%F0%9F%87%B2+to+the+World+%F0%9F%8C%8D;Building+Digital+Experiences;Code%2C+Create%2C+Collaborate" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -52,8 +52,6 @@ I'm a passionate full-stack developer from Myanmar 🇲🇲, dedicated to buildi
 ## 🔧 Featured Projects
 
 [![Your Project](https://github-readme-stats.vercel.app/api/pin/?username=theYE-8266-viren-Nai&repo=your-repo-name&theme=tokyonight)](https://github.com/theYE-8266-viren-Nai/your-repo-name)
-
-<!-- Add more as needed -->
 
 ---
 
