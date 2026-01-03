@@ -59,12 +59,7 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
