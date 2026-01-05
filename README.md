@@ -12,12 +12,6 @@
 
 I'm a passionate full-stack developer dedicated to building seamless, meaningful digital experiences.
 
-- 🌱 Currently learning **advanced TypeScript patterns** and **Three.js**
-- 👯 Open to collaborating on **open-source projects** and **innovative web solutions**
-- 🤔 Interested in **system design** and **scalable architecture**
-- 💬 Ask me about **React**, **Laravel**, **JavaScript**, or **UI/UX design**
-- 📫 Reach me at: **thuriyayenaing@gmail.com**
-- ⚡ Fun fact: *I believe great code is like poetry — beautiful and meaningful*
 
 ---
 
