@@ -12,7 +12,6 @@
 
 I'm a passionate full-stack developer dedicated to building seamless, meaningful digital experiences.
 
-
 ---
 
 ## 💻 Tech Stack
@@ -29,6 +28,9 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 
 ### Backend & Languages
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -42,6 +44,7 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -53,7 +56,11 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -69,7 +76,7 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 ---
@@ -78,9 +85,9 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 
 ```javascript
 const thuriya = {
-  currentlyLearning: ["Three.js", "Advanced TypeScript", "System Design"],
-  workingOn: ["Full-stack web applications", "Open-source contributions"],
-  interests: ["Web Performance", "User Experience", "Clean Code"],
+  currentlyLearning: ["Express.js & Prisma", "JWT Authentication", "Advanced TypeScript"],
+  workingOn: ["Full-stack web applications", "Movie Watchlist App", "Open-source contributions"],
+  interests: ["Web Performance", "User Experience", "Clean Code", "Backend Development"],
   goals: [
     "Master modern web technologies",
     "Contribute to open source",
