@@ -1,15 +1,12 @@
 # 👋 Hello, I'm Viren Thuriya!
 
 <div align="center">
-  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Myanmar+%F0%9F%87%B2%F0%9F%87%B2;Building+Seamless+Web+Experiences;Open+Source+Enthusiast)](https://git.io/typing-svg)
-
 </div>
 
 ---
 
 ## 🚀 About Me
-
 I'm a passionate full-stack developer dedicated to building seamless, meaningful digital experiences.
 
 ---
@@ -56,11 +53,11 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viren_thuirya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=viren_thuirya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viren_thuirya&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
@@ -68,7 +65,7 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theYE-8266-viren-Nai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viren_thuirya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -76,7 +73,7 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viren_thuirya&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
 </div>
 
 ---
@@ -95,32 +92,3 @@ const thuriya = {
   ],
   funFact: "I debug with console.log and I'm not ashamed! 🐛"
 };
-```
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/thuriyaye.naing)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/virern_thuriya)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuriyayenaing@gmail.com)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### 💡 *"Great code is like poetry — beautiful and meaningful"*
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&color=blue&style=for-the-badge)
-  
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
