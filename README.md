@@ -1,7 +1,9 @@
 # 👋 Hello, I'm Viren Thuriya!
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Myanmar+%F0%9F%87%B2%F0%9F%87%B2;Building+Seamless+Web+Experiences;Open+Source+Enthusiast)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+from+Myanmar+🇲🇲;Building+Seamless+Web+Experiences;Open+Source+Enthusiast" />
+  </a>
 </div>
 
 ---
@@ -53,11 +55,9 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viren_thuirya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.vercel.app?user=viren_thuirya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viren_thuirya&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=viren_thuirya&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=viren_thuirya&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viren_thuirya&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viren_thuirya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=viren_thuirya&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7" />
 </div>
 
 ---
@@ -73,22 +73,17 @@ I'm a passionate full-stack developer dedicated to building seamless, meaningful
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viren_thuirya&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viren_thuirya&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-```javascript
+```js
 const thuriya = {
   currentlyLearning: ["Express.js & Prisma", "JWT Authentication", "Advanced TypeScript"],
-  workingOn: ["Full-stack web applications", "Movie Watchlist App", "Open-source contributions"],
-  interests: ["Web Performance", "User Experience", "Clean Code", "Backend Development"],
-  goals: [
-    "Master modern web technologies",
-    "Contribute to open source",
-    "Build impactful products"
-  ],
-  funFact: "I debug with console.log and I'm not ashamed! 🐛"
+  workingOn: ["Full-stack web apps", "Movie Watchlist App", "Open source"],
+  interests: ["Web Performance", "UX", "Clean Code", "Backend"],
+  funFact: "I debug with console.log and I'm not ashamed 🐛"
 };
