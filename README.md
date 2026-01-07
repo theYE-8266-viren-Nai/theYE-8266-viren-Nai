@@ -7,9 +7,8 @@
 ---
 ## 🧠 About Me
 - 🎓 Computer Science student
-- 💻 Interested in **Web Development, Cybersecurity, Networking**
+- 💻 Interested in **Web Development, **
 - 🚀 Aspiring **tech startup founder**
-- 🎸 Musician & creative coder
 - 🌱 Currently learning **System Design & Backend Engineering**
 
 ---
