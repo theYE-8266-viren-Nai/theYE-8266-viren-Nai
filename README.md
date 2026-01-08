@@ -26,23 +26,11 @@
 
 ---
 <div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
+  
   <img
     src="https://github-readme-streak-stats-eight.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true"
     height="165"
     alt="GitHub Streak Stats"
-  />
-</div>
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&theme=tokyonight&hide_border=true"
-    height="150"
-    alt="Top Languages"
   />
 </div>
 
