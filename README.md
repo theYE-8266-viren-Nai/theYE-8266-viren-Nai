@@ -15,8 +15,7 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-- JavaScript, Python, C
-- HTML, CSS
+- JavaScript, Php 
 
 **Frameworks & Tools**
 - Node.js, Express
