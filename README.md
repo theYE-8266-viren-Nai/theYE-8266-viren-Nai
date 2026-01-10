@@ -21,7 +21,7 @@
 - Node.js, Express
 - React, Astro, Tailwind CSS
 - Git, GitHub
-- SQLite, MySQL
+- Postgre , MySQL
 
 ---
 <div align="center">
