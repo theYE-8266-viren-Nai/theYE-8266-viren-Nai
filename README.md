@@ -49,4 +49,4 @@
 - 📫 Reach me via GitHub
 
 ---
-⭐ **If you like my work, consider starring my repositories!**
+
