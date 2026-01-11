@@ -8,7 +8,6 @@
 ## 🧠 About Me
 - 🎓 Computer Science student
 - 💻 Interested in **Web Development, **
-- 🚀 Aspiring **tech startup founder**
 - 🌱 Currently learning **System Design & Backend Engineering**
 
 ---
