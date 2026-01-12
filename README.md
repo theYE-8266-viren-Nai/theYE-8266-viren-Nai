@@ -8,7 +8,7 @@
 ## 🧠 About Me
 - 🎓 Computer Science student
 - 💻 Interested in **Web Development, **
-- 🌱 Currently learning **System Design & Backend Engineering**
+
 
 ---
 ## 🛠️ Tech Stack
