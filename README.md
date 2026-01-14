@@ -1,21 +1,21 @@
 # Hi there, I'm Viren Thuriya 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=28&duration=3000&pause=1000&color=%2300FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Web+Developer;Building+the+Future+of+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=28&duration=3000&pause=1000&color=%2300FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Web+Developer;Building+the+Future+of+Web" alt="Typing SVG" /> [readme-typing-svg.demolab](https://readme-typing-svg.demolab.com/?font=VT323&weight=400&size=28&duration=3000&pause=1000&color=%2300FF00&center=true&vCenter=true&width=600&lines=Computer+Science+Studen)
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #000000; padding: 20px; border: 2px solid #00FF00; text-shadow: 0 0 5px #00FF00;">
-  <em>Passionate about creating elegant solutions to complex problems through clean code and modern web technologies.</em>
+  <em>Passionate about creating elegant solutions to complex problems through clean code and modern web technologies.</em> [300feetout](https://www.300feetout.com/blog/how-to-make-a-retro-looking-website-straight-from-the-90s)
 </p>
 
 <hr style="border: 2px dashed #00FFFF; background-color: #000;">
 
-## 🚀 About Me [300feetout](https://www.300feetout.com/blog/how-to-make-a-retro-looking-website-straight-from-the-90s)
+## 🚀 About Me
 
 <pre style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #000033; padding: 15px; border-left: 4px solid #FF00FF; margin: 10px 0;">
 I'm a Computer Science student with a passion for web development and building applications that make a difference. 
 I love exploring new technologies and turning ideas into reality through code.
-</pre>
+</pre> [300feetout](https://www.300feetout.com/blog/how-to-make-a-retro-looking-website-straight-from-the-90s)
 
 - <span style="color: #FF00FF;">🔭</span> Currently working on full-stack web applications using React and Node.js [reddit](https://www.reddit.com/r/coolgithubprojects/comments/1pmfsv9/found_a_pretty_cool_github_readme_template/)
 - <span style="color: #00FFFF;">🌱</span> Learning advanced backend architecture and database optimization
@@ -24,7 +24,7 @@ I love exploring new technologies and turning ideas into reality through code.
 
 <hr style="border: 2px solid #FF00FF;">
 
-## 🛠️ Tech Stack [dev](https://dev.to/khangnd/10-retro-css-frameworks-to-relive-your-childhood-nph)
+## 🛠️ Tech Stack
 
 <table style="font-family: 'Courier New', monospace; color: #FFFFFF; background: linear-gradient(45deg, #000033, #000066); border: 3px ridge #00FF00; border-collapse: collapse; width: 100%;">
   <tr><th colspan="2" style="background: #00FF00; color: #000; padding: 10px; text-align: center; font-size: 18px;">Languages</th></tr>
@@ -44,31 +44,34 @@ I love exploring new technologies and turning ideas into reality through code.
     <td style="padding: 8px; border: 1px solid #00FF00;"></td>
     <td style="padding: 8px; border: 1px solid #00FF00;"></td>
   </tr>
-  <!-- Similar rows for Express, Tailwind, Astro -->
+  <tr>
+    <td style="padding: 8px; border: 1px solid #00FF00;"></td>
+    <td style="padding: 8px; border: 1px solid #00FF00;"></td>
+  </tr>
+  <tr>
+    <td style="padding: 8px; border: 1px solid #00FF00;"></td>
+    <td></td>
+  </tr>
 </table>
 
 ### Databases & Tools
-
-
-
-
+    [github](https://github.com/YoshiMannaert/95CSS)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,nodejs,react,postgres,mysql,git,github,tailwind,express,astro&perline=7&color=00ff00" alt="Tech Stack" /> [github](https://github.com/YoshiMannaert/95CSS)
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,nodejs,react,postgres,mysql,git,github,tailwind,express,astro&perline=7&color=00ff00" alt="Tech Stack" />
 </div>
 
 <hr style="border: 3px ridge #FFFF00;">
 
-## 📊 GitHub Analytics [github](https://github.com/elangosundar/awesome-README-templates)
+## 📊 GitHub Analytics
 
 <div align="center" style="background: #000; padding: 20px; border: 2px inset #00FF00;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
+</div> [github](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-[  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=radical&hide_border=true" alt="GitHub Streak" /> [github](https://github.com/x0rzavi/github-readme-terminal)](https://github-readme-streak-stats-eight.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true
-)
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=theYE-8266-viren-Nai&theme=radical&hide_border=true" alt="GitHub Streak" /> [github](https://github.com/orgs/community/discussions/143996)
 </div>
 
 ## 📈 Contribution Activity
@@ -101,5 +104,5 @@ I love exploring new technologies and turning ideas into reality through code.
 </div>
 
 <p align="center" style="color: #FF00FF; font-family: monospace; font-size: 12px; background: #000; padding: 10px; border-top: 1px solid #FF00FF;">
-  <sub>⭐️ From <a href="https://github.com/theYE-8266-viren-Nai" style="color: #00FF00;">Viren Thuriya</a> | <blink>90s Vibes Activated</blink></sub>
-</p> [medialoot](https://medialoot.com/blog/23-90s-fonts-for-retro-nostalgia/)
+  <sub>⭐️ From <a href="https://github.com/theYE-8266-viren-Nai" style="color: #00FF00;">Viren Thuriya</a> | <blink>90s Vibes Activated</blink></sub>  [medialoot](https://medialoot.com/blog/23-90s-fonts-for-retro-nostalgia/)
+</p>
