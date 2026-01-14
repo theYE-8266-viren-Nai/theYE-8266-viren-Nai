@@ -67,7 +67,8 @@ I love exploring new technologies and turning ideas into reality through code.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=radical&hide_border=true" alt="GitHub Streak" /> [github](https://github.com/x0rzavi/github-readme-terminal)
+[  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=radical&hide_border=true" alt="GitHub Streak" /> [github](https://github.com/x0rzavi/github-readme-terminal)](https://github-readme-streak-stats-eight.vercel.app?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true
+)
 </div>
 
 ## 📈 Contribution Activity
