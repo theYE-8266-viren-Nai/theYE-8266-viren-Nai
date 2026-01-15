@@ -1,4 +1,6 @@
-# Hi there, I'm Viren Thuriya 👋
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Web+Developer;Building+the+Future+of+Web" alt="Typing SVG" />
