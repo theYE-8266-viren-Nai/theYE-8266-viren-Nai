@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
 <p align="center">
