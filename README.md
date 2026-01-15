@@ -3,8 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Web+Developer;Building+the+Future+of+Web" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <em>Passionate about creating elegant solutions to complex problems through clean code and modern web technologies.</em>
