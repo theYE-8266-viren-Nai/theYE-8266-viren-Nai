@@ -58,8 +58,8 @@ I'm a Computer Science student with a passion for web development and building a
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
+  <img src="https://metrics.lecoq.io/theYE-8266-viren-Nai?template=classic&isocalendar=1&languages=1&stargazers=1&activity=1&repositories=1&lines=1&config.timezone=Asia/Yangon" />
+</div
 
 ***
 
