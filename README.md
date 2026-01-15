@@ -23,27 +23,6 @@ I'm a Computer Science student with a passion for web development and building a
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-
-
-
-
-### Frameworks & Libraries
-
-
-
-
-
-
-### Databases
-
-
-
-### Tools & Technologies
-
-
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,php,html,css,nodejs,react,postgres,mysql,git,github,tailwind,express,astro&perline=7" alt="Tech Stack" />
 </div>
@@ -53,13 +32,20 @@ I'm a Computer Science student with a passion for web development and building a
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://metrics.lecoq.io/theYE-8266-viren-Nai
+    ?template=classic
+    &base.header=0
+    &base.activity=1
+    &base.community=1
+    &languages=1
+    &languages.limit=8
+    &languages.colors=github
+    &isocalendar=1
+    &isocalendar.duration=half-year
+    &lines=1
+    &activity=1
+    &config.timezone=Asia/Yangon" />
 </div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/theYE-8266-viren-Nai?template=classic&isocalendar=1&languages=1&stargazers=1&activity=1&repositories=1&lines=1&config.timezone=Asia/Yangon" />
-</div
 
 ***
 
@@ -71,11 +57,16 @@ I'm a Computer Science student with a passion for web development and building a
 
 ***
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=theYE-8266-viren-Nai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theYE-8266-viren-Nai&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theYE-8266-viren-Nai&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theYE-8266-viren-Nai&theme=tokyonight" />
+</p>
 
 ***
 
@@ -85,7 +76,6 @@ I'm a Computer Science student with a passion for web development and building a
   <a href="https://github.com/theYE-8266-viren-Nai">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add more social links as needed -->
 </p>
 
 <p align="center">
