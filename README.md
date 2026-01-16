@@ -15,7 +15,7 @@
 
 I'm a Computer Science student with a passion for web development and building applications that make a difference. I love exploring new technologies and turning ideas into reality through code.
 
-- 🔭 Currently working on full-stack web applications using React and Node.js
+- 🔭 Currently working on full-stack web applications using React and Express.js
 - 🌱 Learning advanced backend architecture and database optimization
 - 💡 Interested in open-source contribution and collaborative development
 - 🎯 Goal: Build scalable, user-friendly applications that solve real-world problems
