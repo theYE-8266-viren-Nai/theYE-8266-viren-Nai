@@ -6,7 +6,6 @@
 
 
 <p align="center">
-  <em>Passionate about creating elegant solutions to complex problems through clean code and modern web technologies.</em>
 </p>
 
 ***
