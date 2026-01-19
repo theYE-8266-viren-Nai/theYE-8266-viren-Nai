@@ -70,7 +70,7 @@ I'm a Computer Science student with a passion for web development and building a
 
 ***
 
-## 🔗 Let's Connect
+
 
 <p align="center">
   <a href="https://github.com/theYE-8266-viren-Nai">
