@@ -1,85 +1,85 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=052c14&height=200&section=header&text=Welcome%20to%20my%20Jurassic%20Code&fontSize=50&animation=fadeIn&fontAlignY=35" />
-  
-  <img src="https://raw.githubusercontent.com/MartinS00/MartinS00/master/assets/dino.gif" width="300" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=250&section=header&text=NEURAL-DINO-CORE&fontSize=70&animation=fadeIn&fontAlignY=40&desc=The%20Next%20Evolution%20of%20Code&descAlignY=60&descSize=20" />
 
-  <br/>
-
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=theYE-8266-viren-Nai&theme=dracula&hide_border=true&stroke=FFA500&background=0D1117" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42A242&center=true&vCenter=true&width=435&lines=Building+Digital+Dinosaurs;Full+Stack+Explorer;React+%26+Express+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=EXTRACTING+DNA+FROM+SCRIPTS...;SYNTHESIZING+FULL-STACK+APPS...;OPTIMIZING+NEURAL+BACKENDS...;REWRITING+THE+GENETIC+CODE..." alt="Typing SVG" />
 </p>
 
-***
+---
 
-## 🦖 About Me
+## 🦾 System Specifications (About Me)
 
-I'm a **Computer Science student** with a passion for web development and building applications that make a difference. I love exploring new technologies and turning ideas into reality through code.
+<table align="center">
+  <tr>
+    <td width="50%" style="border: none;">
+      <h3>🦖 Raptor-Class Developer</h3>
+      <p>I build <b>high-velocity</b> web ecosystems. Currently engineering digital landscapes where modern architecture meets raw performance.</p>
+      <ul>
+        <li><b>Primary Focus:</b> Scalable React/Express Architectures</li>
+        <li><b>Current Research:</b> Distributed Systems & Database Bio-optimization</li>
+        <li><b>Status:</b> Actively evolving in the Open Source ecosystem</li>
+      </ul>
+    </td>
+    <td width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&theme=vision-friendly-dark&langs_count=8&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 **Currently working on:** Full-stack web applications using **React** and **Express.js**
-- 🌱 **Learning:** Advanced backend architecture and database optimization
-- 💡 **Interested in:** Open-source contribution and collaborative development
-- 🎯 **Goal:** Build scalable, user-friendly applications that survive the "extinction" of old tech
+---
 
-***
-
-## 🛠️ Tech Stack (The DNA)
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,nodejs,react,postgres,mysql,git,github,tailwind,express,astro&theme=dark&perline=7" alt="Tech Stack" />
-</div>
-
-***
-
-## 📊 Fossil Records (Analytics)
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/theYE-8266-viren-Nai?template=classic&base.header=0&base.activity=1&base.community=1&languages=1&languages.limit=8&languages.colors=github&isocalendar=1&isocalendar.duration=half-year&lines=1&activity=1&config.timezone=Asia/Yangon" />
-</div>
-
-***
-
-## 📈 Evolution Timeline
+## 🛠️ The Tech Laboratory (DNA Lab)
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=dracula&color=42A242&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,nodejs,react,postgres,mysql,git,github,tailwind,express,astro&theme=dark" />
 </div>
 
-***
+<br/>
 
-## 🏆 Ancient Achievements
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&ring=39FF14&fire=FF4500" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theYE-8266-viren-Nai&theme=dracula" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theYE-8266-viren-Nai&theme=dracula" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theYE-8266-viren-Nai&theme=dracula" />
-</p>
+## 📡 Biometric Performance Metrics
 
-***
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=github-compact&color=39FF14&bg_color=0d1117&hide_border=true&area=true" width="100%" />
+</div>
 
-## 📞 Summon the Dino
+<br/>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theYE-8266-viren-Nai&theme=dracula" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theYE-8266-viren-Nai&theme=dracula" width="45%" />
+</div>
+
+---
+
+## ⚡ Transmission Signal
+
+<div align="center">
   <a href="https://github.com/theYE-8266-viren-Nai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/ENCRYPTED_GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
   </a>
-</p>
-
-<p align="center">
-  <em>💬 Feel free to reach out if you want to collaborate on a project or just chat about tech!</em>
-</p>
-
-***
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&color=42A242&style=flat-square&label=Explorers+Tracked" alt="Profile Views" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&color=39FF14&style=flat-square&label=SPECIMENS+OBSERVED" />
+</div>
+
+---
+
 <p align="center">
-  <sub>🦖 Created by <a href="https://github.com/theYE-8266-viren-Nai">Viren Thuriya</a></sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=30&section=footer" width="100%"/>
 </p>
