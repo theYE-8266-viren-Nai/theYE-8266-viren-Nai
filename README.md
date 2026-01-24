@@ -1,63 +1,89 @@
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=NEURAL%20DINO%20CORE&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35&desc=The%20Next%20Evolution%20of%20Code&descAlignY=55&descSize=20&descColor=39FF14" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b9e5fb&height=250&section=header&text=GLACIAL%20CODE%20CORE&fontSize=70&animation=fadeIn&fontColor=1d3557&fontAlignY=35&desc=The%20Next%20Evolution%20in%20Sub-Zero%20Dev&descAlignY=55&descSize=20&descColor=457b9d" />
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpxx69Sd3NPa/giphy.gif" width="280" />
+
+  <br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
   </picture>
+
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=EXTRACTING+DNA+FROM+SCRIPTS...;SYNTHESIZING+FULL-STACK+APPS...;OPTIMIZING+NEURAL+BACKENDS...;REWRITING+THE+GENETIC+CODE..." alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Iceberg&weight=600&size=28&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=FREEZING+BUGS+IN+THEIR+TRACKS...;SYNTHESIZING+COLD-STACK+APPS...;OPTIMIZING+GLACIAL+ARCHITECTURES...;REWRITING+THE+DNA+OF+THE+ICE+AGE..." alt="Typing SVG" />
 </div>
+
 ***
-## 🦾 System Specifications (About Me)
+
+## ❄️ Mammoth-Class Specifications (About Me)
+
 <table align="center" style="border: none;">
   <tr>
     <td width="55%" style="border: none; vertical-align: top;">
-      <h3>🦖 Raptor-Class Developer</h3>
-      <p>I build <b>high-velocity</b> web ecosystems. Currently engineering digital landscapes where modern architecture meets raw performance.</p>
+      <h3>🦣 Ancient Architect</h3>
+      <p>I build <b>high-durability</b> web ecosystems designed to survive the harshest environments. Currently engineering digital landscapes where stability meets crystalline performance.</p>
       <ul>
         <li><b>Primary Focus:</b> Scalable React/Express Architectures</li>
-        <li><b>Current Research:</b> Distributed Systems & Database Bio-optimization</li>
-        <li><b>Status:</b> Actively evolving in the Open Source ecosystem</li>
+        <li><b>Current Research:</b> Deep-Freeze Database Optimization</li>
+        <li><b>Status:</b> Preserved and evolving in the Open Source ecosystem</li>
       </ul>
     </td>
     <td width="45%" style="border: none; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&theme=vision-friendly-dark&langs_count=8&hide_border=true&title_color=39FF14&text_color=ffffff" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&theme=nord&langs_count=8&hide_border=true&title_color=A2D2FF&text_color=ffffff" />
     </td>
   </tr>
 </table>
+
 ***
-## 🛠️ The DNA Laboratory (Tech Stack)
+
+## ⚒️ The Ice Cave Laboratory (Tech Stack)
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,html,css,nodejs,react,postgres,mysql,git,github,tailwind,express,astro&theme=dark&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,php,html,css,nodejs,react,postgres,mysql,git,github,tailwind,express,astro&theme=light&perline=7" alt="Tech Stack" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&ring=39FF14&fire=FF4500" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=theYE-8266-viren-Nai&theme=nord&hide_border=true&ring=A2D2FF&fire=00B4D8" />
 </div>
+
 ***
-## 📡 Biometric Performance Metrics
+
+## 🏔️ Glacial Performance Metrics
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=github-compact&color=39FF14&bg_color=0d1117&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=nord&color=A2D2FF&bg_color=0d1117&hide_border=true&area=true" width="100%" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theYE-8266-viren-Nai&theme=dracula" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theYE-8266-viren-Nai&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theYE-8266-viren-Nai&theme=nord" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theYE-8266-viren-Nai&theme=nord" width="48%" />
 </div>
+
 ***
-## ⚡ Transmission Signal
+
+## ❄️ Send a Flare (Transmission)
+
 <div align="center">
   <a href="https://github.com/theYE-8266-viren-Nai">
-    <img src="https://img.shields.io/badge/ENCRYPTED_GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
+    <img src="https://img.shields.io/badge/FROZEN_GITHUB-000000?style=for-the-badge&logo=github&logoColor=A2D2FF" />
   </a>
 </div>
+
 <p align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&color=39FF14&style=flat-square&label=SPECIMENS+OBSERVED" />
+  <img src="https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&color=A2D2FF&style=flat-square&label=EXPLORERS+FROZEN+IN+TIME" />
 </p>
 
 ***
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=30&section=footer" width="100%"/>
-  <p><sub>🦖 Base Template: theYE-8266-viren-Nai | Evolution Year: 2026</sub></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=b9e5fb&height=30&section=footer" width="100%"/>
+  <p><sub>🧊 Environment: Sub-Zero | Evolution Year: 2026</sub></p>
 </div>
