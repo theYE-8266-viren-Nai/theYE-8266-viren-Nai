@@ -1,6 +1,4 @@
-hello world 
- 
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=NEURAL%20DINO%20CORE&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35&desc=The%20Next%20Evolution%20of%20Code&descAlignY=55&descSize=20&descColor=39FF14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=NEURAL%20DINO%20CORE&fontSize=70&animation=fadeIn&fontColor=ffffff&fontAlignY=35&desc=The%20Next%20Evolution%20of%20Code&descAlignY=55&descSize=20&descColor=39FF14" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
