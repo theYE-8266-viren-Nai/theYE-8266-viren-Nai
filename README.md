@@ -43,7 +43,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=theYE-8266-viren-Nai&theme=nord&hide_border=true&ring=A2D2FF&fire=00B4D8" />
+  <img src="https://streak-stats.demolab.com/?username=theYE-8266-viren-Nai&theme=nord&hide_border=true&ring=A2D2FF&fire=00B4D8&currStreakLabel=A2D2FF" />
 </div>
 
 ---
