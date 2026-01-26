@@ -8,7 +8,7 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
   </picture>
   <br/>
-  <img src="https://streak-stats.demolab.com/?username=theYE-8266-viren-Nai&theme=nord&hide_border=true&ring=A2D2FF&fire=00B4D8&currStreakLabel=A2D2FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=nord&hide_border=true&ring=A2D2FF&fire=00B4D8&currStreakLabel=A2D2FF" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Iceberg&weight=600&size=28&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=FREEZING+BUGS+IN+THEIR+TRACKS...;SYNTHESIZING+COLD-STACK+APPS...;OPTIMIZING+GLACIAL+ARCHITECTURES...;REWRITING+THE+DNA+OF+THE+ICE+AGE..." alt="Typing SVG" />
 </div>
