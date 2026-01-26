@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/3o7TKMGpxx69Sd3NPa/giphy.gif" width="280" />
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
   </picture>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=nord&hide_border=true&title_color=A2D2FF&icon_color=00B4D8&text_color=ffffff&bg_color=2E3440" />
