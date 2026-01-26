@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=b9e5fb&height=250&section=header&text=GLACIAL%20CODE%20CORE&fontSize=70&animation=fadeIn&fontColor=1d3557&fontAlignY=35&desc=The%20Next%20Evolution%20in%20Sub-Zero%20Dev&descAlignY=55&descSize=20&descColor=457b9d" />
   <img src="https://media.giphy.com/media/3o7TKMGpxx69Sd3NPa/giphy.gif" width="280" />
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theYE-8266-viren-Nai/theYE-8266-viren-Nai/output/github-contribution-grid-snake.svg">
-  </picture>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=nord&hide_border=true&title_color=A2D2FF&icon_color=00B4D8&text_color=ffffff&bg_color=2E3440" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Iceberg&weight=600&size=28&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=FREEZING+BUGS+IN+THEIR+TRACKS...;SYNTHESIZING+COLD-STACK+APPS...;OPTIMIZING+GLACIAL+ARCHITECTURES...;REWRITING+THE+DNA+OF+THE+ICE+AGE..." alt="Typing SVG" />
