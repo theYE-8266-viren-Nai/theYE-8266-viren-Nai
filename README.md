@@ -37,7 +37,7 @@
 ## 🏔️ Glacial Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=nord&hide_border=true&background=2E3440&ring=A2D2FF&fire=A2D2FF&currStreakLabel=A2D2FF&sideLabels=A2D2FF&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=A2D2FF&icon_color=A2D2FF&text_color=ffffff" width="60%" />
 </div>
 
 <br/>
