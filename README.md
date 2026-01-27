@@ -5,8 +5,26 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iceberg&weight=600&size=28&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=FREEZING+BUGS+IN+THEIR+TRACKS...;SYNTHESIZING+COLD-STACK+APPS...;OPTIMIZING+GLACIAL+ARCHITECTURES...;REWRITING+THE+DNA+OF+THE+ICE+AGE..." alt="Typing SVG" />
 </div>
 
+
 ---
 
+## 🏔️ Glacial Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=nord&hide_border=true&stroke=A2D2FF&ring=A2D2FF&fire=A2D2FF&currStreakLabel=A2D2FF" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=A2D2FF&icon_color=A2D2FF&text_color=ffffff" width="60%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=nord&color=A2D2FF&bg_color=2E3440&hide_border=true&area=true" width="100%" />
+</div>
 ## ❄️ Mammoth-Class Specifications (About Me)
 <table align="center">
   <tr>
