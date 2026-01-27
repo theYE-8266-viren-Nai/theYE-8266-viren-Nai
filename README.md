@@ -8,7 +8,6 @@
 ---
 
 ## ❄️ Mammoth-Class Specifications (About Me)
-
 <table align="center">
   <tr>
     <td width="55%" valign="top">
@@ -29,7 +28,6 @@
 ---
 
 ## ⚒️ The Ice Cave Laboratory (Tech Stack)
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,php,html,css,nodejs,react,postgres,mysql,git,github,tailwind,express,astro&theme=light&perline=7" alt="Tech Stack" />
 </div>
@@ -37,6 +35,12 @@
 ---
 
 ## 🏔️ Glacial Performance Metrics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theYE-8266-viren-Nai&theme=nord&hide_border=true&background=2E3440&ring=A2D2FF&fire=A2D2FF&currStreakLabel=A2D2FF&sideLabels=A2D2FF&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" width="60%" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&theme=nord&color=A2D2FF&bg_color=2E3440&hide_border=true&area=true" width="100%" />
@@ -58,7 +62,6 @@
 ---
 
 ## ❄️ Send a Flare (Transmission)
-
 <div align="center">
   <a href="https://github.com/theYE-8266-viren-Nai">
     <img src="https://img.shields.io/badge/FROZEN_GITHUB-000000?style=for-the-badge&logo=github&logoColor=A2D2FF" />
