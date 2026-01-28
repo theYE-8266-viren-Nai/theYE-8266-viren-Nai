@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iceberg&weight=600&size=28&pause=1000&color=A2D2FF&center=true&vCenter=true&width=600&lines=FREEZING+BUGS+IN+THEIR+TRACKS...;SYNTHESIZING+COLD-STACK+APPS...;OPTIMIZING+GLACIAL+ARCHITECTURES...;REWRITING+THE+DNA+OF+THE+ICE+AGE..." alt="Typing SVG" />
 </div>
 
-hello world
+
 
 ## 🏔️ Glacial Performance Metrics
 
