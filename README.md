@@ -48,8 +48,19 @@ I'm a full-stack engineer focused on building scalable, production-ready applica
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+## GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&langs_count=8&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=theYE-8266-viren-Nai&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</div>
 </div>
 
 <div align="center">
