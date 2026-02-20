@@ -50,7 +50,7 @@
 </div>
 <div align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> </div>
 📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theYE-8266-viren-Nai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A2D2FF&text_color=C9D1D9&icon_color=79C0FF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theYE-8266-viren-Nai&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A2D2FF&text_color=C9D1D9"/> </div> <div align="center"> <img src="https://nirzak-streak-stats.vercel.app/?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&background=0D1117&stroke=A2D2FF&ring=A2D2FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" /> </div>
+<img src="https://streak-stats.demolab.com/?user=theYE-8266-viren-Nai&theme=tokyonight&hide_border=true&background=0D1117&stroke=A2D2FF&ring=A2D2FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
 🔥 Contribution Graph
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&bg_color=0D1117&color=A2D2FF&line=79C0FF&point=FF6B6B&area=true&hide_border=true" alt="Contribution Graph" /> </div>
 🎯 Current Focus
