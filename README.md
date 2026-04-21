@@ -20,25 +20,30 @@ I'm a full-stack engineer focused on building scalable, production-ready applica
 ## Tech Stack
 
 **Languages & Core**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **Backend**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 
 **Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 **Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -48,13 +53,11 @@ I'm a full-stack engineer focused on building scalable, production-ready applica
 ## GitHub Stats
 
 <div align="center">
-## GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=theYE-8266-viren-Nai&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=viren-Nai&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viren-Nai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -79,5 +82,5 @@ I'm a full-stack engineer focused on building scalable, production-ready applica
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=viren-Nai&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
 </div>
