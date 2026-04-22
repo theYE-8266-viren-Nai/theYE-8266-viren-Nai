@@ -1,86 +1,80 @@
-# Viren Nai — Full-Stack Engineer
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;React+%2B+Express+Specialist;System+Design+%26+DB+Optimization;Building+Scalable+%26+Resilient+Systems" />
-</div>
-
----
-
-## About Me
-
-I'm a full-stack engineer focused on building scalable, production-ready applications. My work spans React-based frontends, Express-powered backends, and database architecture — with a strong focus on performance, maintainability, and clean system design.
-
-- Architecting end-to-end full-stack systems  
-- Specializing in React + Express architecture  
-- Exploring database optimization & distributed systems  
-- Open to open-source collaboration  
-
----
-
-## Tech Stack
-
-### Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-## GitHub Stats
-
 <div align="center">
 
-<!-- ✅ FIXED USERNAME -->
-<img src="https://streak-stats.demolab.com?user=theYE-8266-viren-Nai&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Frontend+Developer;Building+full-stack+web+applications)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Current Focus
-
-- Scalable full-stack systems  
-- Advanced React patterns  
-- Database performance optimization  
-- Open-source contributions  
+Building full-stack web applications with a focus on clean architecture and thoughtful UX.  
+Interested in advanced React patterns, system design, and open source collaboration.
 
 ---
 
-## Contact
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Astro](https://img.shields.io/badge/Astro-000?style=flat-square&logo=astro)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=flat-square&logo=laravel)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase)
+
+**Deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazon-aws)
+![Render](https://img.shields.io/badge/Render-000?style=flat-square&logo=render)
+![Netlify](https://img.shields.io/badge/Netlify-000?style=flat-square&logo=netlify)
+
+---
+
+**Current focus**
+
+```
+01  Full-stack web applications
+02  Advanced React patterns & system design
+03  Open source collaboration
+04  Web development, APIs & database design
+```
+
+---
+
+**GitHub**
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
-
+<img src="https://streak-stats.demolab.com?user=Ye-Thihaa&hide_border=true&background=0d1117&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=aaaaaa&sideLabels=aaaaaa&dates=555555&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 ---
 
+**Connect**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=google-chrome)](https://ysurf.vercel.app)
+[![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail)](mailto:yethihahtun1494@gmail.com)
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&label=Profile+Views&color=58A6FF&style=flat" />
+<sub>debugs with console.log — no apologies</sub>
 </div>
