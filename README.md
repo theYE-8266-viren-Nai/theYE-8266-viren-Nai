@@ -65,7 +65,7 @@ I'm a full-stack engineer focused on building scalable, production-ready applica
 - Scalable full-stack systems  
 - Advanced React patterns  
 - Database performance optimization  
-- Open-source contributions  
+
 
 ---
 
