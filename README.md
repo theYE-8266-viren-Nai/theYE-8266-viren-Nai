@@ -6,6 +6,12 @@
 
 </div>
 
+## Achievements
+
+🏆 **Let's Tech Hackathon 2026** — Winner  
+🥈 **UIT Innovative Hackathon 2026** — 2nd Runner-Up  
+🥈 **Hackathon Myanmar 2023** — 2nd Runner-Up
+
 # Viren Nai
 
 <div align="center">
