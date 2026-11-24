@@ -1,8 +1,7 @@
-
 <div align="center">
 
 <a href="https://thuriyayenaing.vercel.app/">
-  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Open-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio" />
 </a>
 
 </div>
@@ -10,25 +9,26 @@
 # Viren Nai
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;React+%2B+Express+Specialist;System+Design+%26+DB+Optimization;Building+Scalable+%26+Resilient+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%2B+Node.js+Developer;Building+Web+Applications;Always+Learning+New+Technologies" alt="Typing animation" />
 </div>
 
 ---
 
 ## About Me
 
-I'm a full-stack engineer focused on building scalable, production-ready applications. My work spans React-based frontends, Express-powered backends, and database architecture—with a strong focus on performance, maintainability, and clean system design.
+I'm a full-stack developer who enjoys building practical web applications and learning how different parts of a system work together.
 
-- Architecting end-to-end full-stack systems
-- Specializing in React + Express architecture
-- Exploring database optimization and distributed systems
-- Open to open-source collaboration
+- Building frontend applications with React
+- Developing backend services with Node.js and Express
+- Working with SQL and NoSQL databases
+- Learning more about system design and backend development
+- Interested in collaborating on open-source projects
 
 ---
 
 ## Tech Stack
 
-### Languages & Core
+### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -38,12 +38,12 @@ I'm a full-stack engineer focused on building scalable, production-ready applica
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 ### Databases
 
@@ -59,41 +59,27 @@ I'm a full-stack engineer focused on building scalable, production-ready applica
 
 ---
 
-## GitHub Stats
+## Current Learning
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=theYE-8266-viren-Nai&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theYE-8266-viren-Nai&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
-
-</div>
+- Improving backend development skills
+- Learning more about system design
+- Exploring database performance
+- Building and deploying full-stack applications
 
 ---
 
-## Current Focus
-
-- Scalable full-stack systems
-- Advanced React patterns
-- Database performance optimization
-
----
-
-## Contact
+## Portfolio
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thuriyayenaing.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com)
+<a href="https://thuriyayenaing.vercel.app/">
+  Visit my portfolio
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&label=Profile%20Views&color=58A6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=theYE-8266-viren-Nai&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
 </div>
-```
