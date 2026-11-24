@@ -1,5 +1,11 @@
  # Viren Nai 
+<div align="center">
 
+<a href="https://thuriyayenaing.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio- Thuriyayenaing.vercel.app-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit my portfolio" />
+</a>
+
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;React+%2B+Express+Specialist;System+Design+%26+DB+Optimization;Building+Scalable+%26+Resilient+Systems" />
 </div>
