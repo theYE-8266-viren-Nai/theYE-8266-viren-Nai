@@ -12,6 +12,10 @@
 🥈 **UIT Innovative Hackathon 2026** — 2nd Runner-Up  
 🥈 **Hackathon Myanmar 2023** — 2nd Runner-Up
 
+### Featured Experience
+
+⚡ **Live Voting Systems** — Handled live vote processing during a real-time event, helping maintain reliable vote collection and accurate results while voting was active.
+
 # Viren Nai
 
 <div align="center">
